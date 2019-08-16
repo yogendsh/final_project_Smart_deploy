@@ -1,0 +1,432 @@
+src/main/java/com/cg/smartdeploy/SmartDeployV1Application.java:7:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/cg/smartdeploy/SmartDeployV1Application.java:7:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/cg/smartdeploy/SmartDeployV1Application.java:7:	Header comments are required
+src/main/java/com/cg/smartdeploy/SmartDeployV1Application.java:7:	Header comments are required
+src/main/java/com/cg/smartdeploy/SmartDeployV1Application.java:9:	Parameter 'args' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/SmartDeployV1Application.java:9:	Parameter 'args' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/SmartDeployV1Application.java:9:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/SmartDeployV1Application.java:9:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:25:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:25:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:25:	Header comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:25:	Header comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:28:	Field comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:28:	Field comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:28:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:28:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:30:	The String literal "application/json" appears 6 times in this file; the first occurrence is on line 29
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:30:	The String literal "application/json" appears 6 times in this file; the first occurrence is on line 29
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:32:	Parameter 'managerMaster' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:32:	Parameter 'managerMaster' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:32:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:32:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:34:	Local variable 'newobj' could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:34:	Local variable 'newobj' could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:35:	Consider simply returning the value vs storing it in local variable 'newobj'
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:35:	Consider simply returning the value vs storing it in local variable 'newobj'
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:41:	Parameter 'dateHelper' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:41:	Parameter 'dateHelper' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:41:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:41:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:44:	Local variable 'dateTimeFormatter' could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:44:	Local variable 'dateTimeFormatter' could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:46:	Local variable 'start' could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:46:	Local variable 'start' could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:47:	Local variable 'end' could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:47:	Local variable 'end' could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:51:	Local variable 'temp' could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:51:	Local variable 'temp' could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:52:	Consider simply returning the value vs storing it in local variable 'temp'
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:52:	Consider simply returning the value vs storing it in local variable 'temp'
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:58:	Avoid the use of value in annotations when its the only element
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:58:	Avoid the use of value in annotations when its the only element
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:60:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:60:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:69:	Parameter 'employees' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:69:	Parameter 'employees' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:69:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:69:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:94:	Comment is too large: Line too long
+src/main/java/com/cg/smartdeploy/controller/DemandRequestController.java:94:	Comment is too large: Line too long
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:12:	Header comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:12:	Header comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:14:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:14:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:14:	Unnecessary modifier 'public' on method 'loginDb': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:14:	Unnecessary modifier 'public' on method 'loginDb': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:15:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:15:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:15:	Unnecessary modifier 'public' on method 'demandReportingDbDao': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:15:	Unnecessary modifier 'public' on method 'demandReportingDbDao': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:17:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:17:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:17:	Unnecessary modifier 'public' on method 'getBenchEmployeeDetails': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:17:	Unnecessary modifier 'public' on method 'getBenchEmployeeDetails': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:19:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:19:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:19:	Unnecessary modifier 'public' on method 'deployServiceDao': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/dao/LoginDatabase.java:19:	Unnecessary modifier 'public' on method 'deployServiceDao': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:23:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:23:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:23:	Header comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:23:	Header comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:26:	Field comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:26:	Field comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:28:	Field comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:28:	Field comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:28:	To avoid mistakes add a comment at the beginning of the currentManager field if you want a default access modifier
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:28:	To avoid mistakes add a comment at the beginning of the currentManager field if you want a default access modifier
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:28:	Use explicit scoping instead of the default package private level
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:28:	Use explicit scoping instead of the default package private level
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:30:	Parameter 'employees' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:30:	Parameter 'employees' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:30:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:30:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:30:	The method 'loginDb(ManagerMaster)' is missing an @Override annotation.
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:30:	The method 'loginDb(ManagerMaster)' is missing an @Override annotation.
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:31:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:31:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:32:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:32:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:34:	Local variable 'newMaster' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:34:	Local variable 'newMaster' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:35:	Avoid using if statements without curly braces
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:35:	Avoid using if statements without curly braces
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:36:	This statement should have braces
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:36:	This statement should have braces
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:37:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:37:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:37:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:37:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:38:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:38:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:41:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:41:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:45:	Avoid using if...else statements without curly braces
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:45:	Avoid using if...else statements without curly braces
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:45:	This statement should have braces
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:45:	This statement should have braces
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:51:	Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:51:	Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:51:	Parameter 'startDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:51:	Parameter 'startDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:51:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:51:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:51:	The method 'demandReportingDbDao(LocalDate, LocalDate)' is missing an @Override annotation.
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:51:	The method 'demandReportingDbDao(LocalDate, LocalDate)' is missing an @Override annotation.
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:53:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:53:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:54:	Found 'DD'-anomaly for variable 'totalRaised' (lines '54'-'66').
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:54:	Found 'DD'-anomaly for variable 'totalRaised' (lines '54'-'66').
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:55:	Found 'DD'-anomaly for variable 'totalFullfill' (lines '55'-'67').
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:55:	Found 'DD'-anomaly for variable 'totalFullfill' (lines '55'-'67').
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:56:	Local variable 'query1' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:56:	Local variable 'query1' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:57:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:57:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:58:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:58:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:59:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:59:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:60:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:60:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:61:	Local variable 'temp' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:61:	Local variable 'temp' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:61:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:61:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:63:	This for loop can be replaced by a foreach loop
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:63:	This for loop can be replaced by a foreach loop
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:67:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:67:	Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:69:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:69:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:70:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:70:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:73:	Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:73:	Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:73:	Local variable 'totalRequest' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:73:	Local variable 'totalRequest' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:76:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:76:	System.out.println is used
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:84:	Local variable 'query' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:84:	Local variable 'query' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:85:	Local variable 'temp' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:85:	Local variable 'temp' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:85:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:85:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:86:	Consider simply returning the value vs storing it in local variable 'temp'
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:86:	Consider simply returning the value vs storing it in local variable 'temp'
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:90:	Parameter 'list' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:90:	Parameter 'list' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:92:	This for loop can be replaced by a foreach loop
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:92:	This for loop can be replaced by a foreach loop
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:94:	Local variable 'benchEmployee' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:94:	Local variable 'benchEmployee' could be declared final
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:95:	Avoid using if statements without curly braces
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:95:	Avoid using if statements without curly braces
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:96:	This statement should have braces
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:96:	This statement should have braces
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:97:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/dao/LoginDatabaseImpl.java:97:	Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:12:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:12:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:12:	Header comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:12:	Header comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:12:	The class 'BenchEmployee' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=14, WMC=14)
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:12:	The class 'BenchEmployee' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=14, WMC=14)
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:16:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:16:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:19:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:19:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:22:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:22:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:25:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:25:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:28:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:28:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:31:	Avoid excessively long variable names like trainingCompletionDate
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:31:	Avoid excessively long variable names like trainingCompletionDate
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:31:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:31:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:35:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:35:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:41:	Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:41:	Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:49:	Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:49:	Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:57:	Parameter 'skill' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:57:	Parameter 'skill' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:65:	Parameter 'grade' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:65:	Parameter 'grade' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:73:	Parameter 'trainingStartDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:73:	Parameter 'trainingStartDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:81:	Avoid excessively long variable names like trainingCompletionDate
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:81:	Avoid excessively long variable names like trainingCompletionDate
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:81:	Parameter 'trainingCompletionDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:81:	Parameter 'trainingCompletionDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:89:	Parameter 'managerId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/BenchEmployee.java:89:	Parameter 'managerId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:3:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:3:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:3:	Header comments are required
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:3:	Header comments are required
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:3:	The class 'DateHelper' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=4)
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:3:	The class 'DateHelper' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=4)
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:6:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:6:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:9:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:9:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:17:	Parameter 'beginDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:17:	Parameter 'beginDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:27:	Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DateHelper.java:27:	Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:12:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:12:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:12:	Header comments are required
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:12:	Header comments are required
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:12:	The class 'DemandTable' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=10, WMC=10)
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:12:	The class 'DemandTable' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=10, WMC=10)
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:16:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:16:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:19:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:19:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:22:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:22:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:25:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:25:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:28:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:28:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:34:	Parameter 'requestId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:34:	Parameter 'requestId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:42:	Parameter 'managerId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:42:	Parameter 'managerId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:50:	Parameter 'requestDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:50:	Parameter 'requestDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:58:	Parameter 'requestRaised' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:58:	Parameter 'requestRaised' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:66:	Parameter 'requestFullfill' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/DemandTable.java:66:	Parameter 'requestFullfill' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:11:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:11:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:11:	Header comments are required
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:11:	Header comments are required
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:11:	The class 'ManagerMaster' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=10, WMC=10)
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:11:	The class 'ManagerMaster' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=10, WMC=10)
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:15:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:15:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:18:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:18:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:21:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:21:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:26:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:26:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:29:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:29:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:36:	Parameter 'managerId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:36:	Parameter 'managerId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:44:	Parameter 'managerName' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:44:	Parameter 'managerName' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:52:	Parameter 'projectId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:52:	Parameter 'projectId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:62:	Parameter 'managerPassword' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:62:	Parameter 'managerPassword' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:70:	Parameter 'roleId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/ManagerMaster.java:70:	Parameter 'roleId' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/entity/Roles.java:5:	Avoid unused imports such as 'javax.persistence.OneToOne'
+src/main/java/com/cg/smartdeploy/entity/Roles.java:5:	Avoid unused imports such as 'javax.persistence.OneToOne'
+src/main/java/com/cg/smartdeploy/entity/Roles.java:8:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/entity/Roles.java:8:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/entity/Roles.java:8:	Header comments are required
+src/main/java/com/cg/smartdeploy/entity/Roles.java:8:	Header comments are required
+src/main/java/com/cg/smartdeploy/entity/Roles.java:11:	Avoid unused private fields such as 'roleId'.
+src/main/java/com/cg/smartdeploy/entity/Roles.java:11:	Avoid unused private fields such as 'roleId'.
+src/main/java/com/cg/smartdeploy/entity/Roles.java:11:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/Roles.java:11:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/Roles.java:13:	Avoid unused private fields such as 'roleDescription'.
+src/main/java/com/cg/smartdeploy/entity/Roles.java:13:	Avoid unused private fields such as 'roleDescription'.
+src/main/java/com/cg/smartdeploy/entity/Roles.java:13:	Field comments are required
+src/main/java/com/cg/smartdeploy/entity/Roles.java:13:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:9:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:9:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:9:	Header comments are required
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:9:	Header comments are required
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:23:	Avoid the use of value in annotations when its the only element
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:23:	Avoid the use of value in annotations when its the only element
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:25:	Avoid variables with short names like ex
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:25:	Avoid variables with short names like ex
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:25:	Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:25:	Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:25:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:25:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:25:	The instance method name 'KnownException' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/com/cg/smartdeploy/exception/CustomExceptionController.java:25:	The instance method name 'KnownException' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:3:	Header comments are required
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:3:	Header comments are required
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:3:	The class 'ErrorMessageStructure' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=6)
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:3:	The class 'ErrorMessageStructure' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=6)
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:5:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:5:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:6:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:6:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:7:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:7:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:10:	Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:10:	Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:10:	Parameter 'status' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:10:	Parameter 'status' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:10:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:10:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:18:	Parameter 'status' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:18:	Parameter 'status' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:24:	Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/exception/ErrorMessageStructure.java:24:	Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/exception/Messages.java:7:	Header comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:7:	Header comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:7:	The utility class name 'ErrorMessages' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+src/main/java/com/cg/smartdeploy/exception/Messages.java:7:	The utility class name 'ErrorMessages' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+src/main/java/com/cg/smartdeploy/exception/Messages.java:9:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:9:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:10:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:10:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:11:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:11:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:12:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:12:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:13:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:13:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:14:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:14:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:15:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:15:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:16:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:16:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:17:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:17:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:18:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:18:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:19:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:19:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:20:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:20:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:21:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:21:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:22:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:22:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:23:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:23:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:24:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:24:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:25:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:25:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:26:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/Messages.java:26:	Field comments are required
+src/main/java/com/cg/smartdeploy/exception/ProgramException.java:3:	Header comments are required
+src/main/java/com/cg/smartdeploy/exception/ProgramException.java:3:	Header comments are required
+src/main/java/com/cg/smartdeploy/exception/ProgramException.java:7:	Parameter 'errorMassage' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/exception/ProgramException.java:7:	Parameter 'errorMassage' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/exception/ProgramException.java:7:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/exception/ProgramException.java:7:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginService.java:10:	Header comments are required
+src/main/java/com/cg/smartdeploy/service/LoginService.java:10:	Header comments are required
+src/main/java/com/cg/smartdeploy/service/LoginService.java:12:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginService.java:12:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginService.java:12:	Unnecessary modifier 'public' on method 'login': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/service/LoginService.java:12:	Unnecessary modifier 'public' on method 'login': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/service/LoginService.java:14:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginService.java:14:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginService.java:14:	Unnecessary modifier 'public' on method 'demandReportingDb': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/service/LoginService.java:14:	Unnecessary modifier 'public' on method 'demandReportingDb': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/service/LoginService.java:16:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginService.java:16:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginService.java:16:	Unnecessary modifier 'public' on method 'getBenchEmployee': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/service/LoginService.java:16:	Unnecessary modifier 'public' on method 'getBenchEmployee': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/service/LoginService.java:18:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginService.java:18:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginService.java:18:	Unnecessary modifier 'public' on method 'deployService': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/service/LoginService.java:18:	Unnecessary modifier 'public' on method 'deployService': the method is declared in an interface type
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:15:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:15:	Each class should declare at least one constructor
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:15:	Header comments are required
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:15:	Header comments are required
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:18:	Field comments are required
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:18:	Field comments are required
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:22:	Parameter 'employees' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:22:	Parameter 'employees' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:22:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:22:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:22:	The method 'login(ManagerMaster)' is missing an @Override annotation.
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:22:	The method 'login(ManagerMaster)' is missing an @Override annotation.
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:29:	Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:29:	Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:29:	Parameter 'startDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:29:	Parameter 'startDate' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:29:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:29:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:29:	The method 'demandReportingDb(LocalDate, LocalDate)' is missing an @Override annotation.
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:29:	The method 'demandReportingDb(LocalDate, LocalDate)' is missing an @Override annotation.
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:31:	System.out.println is used
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:31:	System.out.println is used
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:38:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:38:	Public method and constructor comments are required
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:38:	The method 'getBenchEmployee()' is missing an @Override annotation.
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:38:	The method 'getBenchEmployee()' is missing an @Override annotation.
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:46:	Parameter 'employeesList' is not assigned and could be declared final
+src/main/java/com/cg/smartdeploy/service/LoginServiceImpl.java:46:	Parameter 'employeesList' is not assigned and could be declared final
+src/test/java/com/cg/smartdeploy/SmartDeployV1ApplicationTests.java:10:	Each class should declare at least one constructor
+src/test/java/com/cg/smartdeploy/SmartDeployV1ApplicationTests.java:10:	Each class should declare at least one constructor
+src/test/java/com/cg/smartdeploy/SmartDeployV1ApplicationTests.java:10:	Header comments are required
+src/test/java/com/cg/smartdeploy/SmartDeployV1ApplicationTests.java:10:	Header comments are required
+src/test/java/com/cg/smartdeploy/SmartDeployV1ApplicationTests.java:13:	Document empty method body
+src/test/java/com/cg/smartdeploy/SmartDeployV1ApplicationTests.java:13:	Document empty method body
+src/test/java/com/cg/smartdeploy/SmartDeployV1ApplicationTests.java:13:	JUnit tests should include assert() or fail()
+src/test/java/com/cg/smartdeploy/SmartDeployV1ApplicationTests.java:13:	JUnit tests should include assert() or fail()
+src/test/java/com/cg/smartdeploy/SmartDeployV1ApplicationTests.java:13:	Public method and constructor comments are required
+src/test/java/com/cg/smartdeploy/SmartDeployV1ApplicationTests.java:13:	Public method and constructor comments are required
